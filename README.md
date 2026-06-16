@@ -1,2 +1,5 @@
-# ai-jobs-salary-prediction
-This project implements salary prediction including Random Forest and Ridge Regression to estimate salaries in AI &amp; Big Data based on attributes such as education level, job position, experience level and many others. The Random Forest model outperforms the second model, while Ridge Regression provides better generalization and stability.
+# Global AI, Data Science & Tech Jobs
+In this project the dataset on jobs in AI & Data were analyzed and used for machine learning models to predict salary rate among employees. The dataset contains 90 000 rows and 35 columns.
+- Most features in the dataset are numerical, but there are also 8 categorical features.
+- there were chosen two different ML models: Ridge Regression and Random Forest.
+- Categorical features were transformed into numerical representation using encoding techniques: ordinal and one-hot.
