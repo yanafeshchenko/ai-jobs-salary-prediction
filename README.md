@@ -29,5 +29,6 @@ There were chosen two different ML models:
 - Random Forest.
 
 ## Results
+![salary](images/results.png)
 Random Forest model predicts significantly better than Ridge, with lower error metrics (MAE, RMSE, MAPE) and higher R² on both training and test sets. However, the gap between training and test data indicates some degree of overfitting. Ridge model demonstrates more consistent behaviour across both datasets, so it has stronger generalization but lower overall accuracy.
 
