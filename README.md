@@ -14,8 +14,10 @@ The dataset was investigated through different plots.
 ![salary](images/salary_main.png)
 ## Salary distribution over experience level
 ![salary](images/salary_vs_exp.png)
+## Jobs distribituion over countries
+![salary](images/countries.png)
 ## Job positions with highest salaries
-![salary](images/avg_salary.png)
+![salary](images/avg_salaries.png)
 ## Does the work mode impact the salary rate among employees?
 ![salary](images/work_mode.png)
 ## Correlation heatmap
