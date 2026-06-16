@@ -11,9 +11,15 @@ In this project the dataset on jobs in AI & Data were analyzed and used for mach
 # Exploratory data analysis
 The dataset was investigated through different plots.
 ## Salary disribution
+![salary](images/salary_main.png)
 ## Salary distribution over experience level
+![salary](images/salary_vs_exp.png)
 ## Job positions with highest salaries
+![salary](images/avg_salary.png)
 ## Does the work mode impact the salary rate among employees?
+![salary](images/work_mode.png)
+## Correlation heatmap
+![salary](images/correlations.png)
 
 ## Model selection
 There were chosen two different ML models: 
